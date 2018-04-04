@@ -1,0 +1,75 @@
+03-03-2018 17:09:06 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+03-03-2018 17:09:07 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+03-03-2018 17:09:14 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: login.
+03-03-2018 17:09:15 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+03-03-2018 17:10:32 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: login.
+03-03-2018 17:10:33 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+03-03-2018 17:19:17 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: login.
+03-03-2018 17:19:17 => gal gal => logged in succesfully.
+03-03-2018 17:19:17 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+03-03-2018 17:19:18 => gal gal => Incoming API request: getSchoolData.
+03-03-2018 17:19:18 => gal gal => API created.
+03-03-2018 17:19:18 => gal gal => API response sent to client: getSchoolData.
+03-03-2018 17:20:03 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+03-03-2018 17:20:06 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+03-03-2018 17:20:18 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+03-03-2018 19:11:28 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+03-03-2018 19:11:30 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+03-03-2018 19:11:32 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+03-03-2018 19:11:51 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+20-03-2018 01:29:54 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+20-03-2018 01:29:55 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+20-03-2018 01:30:03 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: login.
+20-03-2018 01:30:03 => gal gal => logged in succesfully.
+20-03-2018 01:30:04 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+20-03-2018 01:30:04 => gal gal => Incoming API request: getSchoolData.
+20-03-2018 01:30:04 => gal gal => API created.
+20-03-2018 01:30:04 => gal gal => API response sent to client: getSchoolData.
+20-03-2018 01:30:23 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+20-03-2018 01:30:29 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+20-03-2018 01:30:54 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+20-03-2018 01:31:06 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+22-03-2018 00:29:07 => gal gal => Front controller created. AdminModel, LoginView, LoginController, Action: .
+22-03-2018 00:29:08 => gal gal => Incoming API request: getSchoolData.
+22-03-2018 00:29:08 => gal gal => API created.
+22-03-2018 00:29:08 => gal gal => API response sent to client: getSchoolData.
+22-03-2018 00:29:10 => gal gal => Front controller created. AdminModel, LoginView, LoginController, Action: login.
+22-03-2018 00:29:10 => gal gal => logged in succesfully.
+22-03-2018 00:29:10 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+22-03-2018 00:29:11 => gal gal => Incoming API request: getSchoolData.
+22-03-2018 00:29:11 => gal gal => API created.
+22-03-2018 00:29:11 => gal gal => API response sent to client: getSchoolData.
+22-03-2018 00:29:27 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+22-03-2018 00:29:34 => gal gal => Incoming API request: saveAdmin.
+22-03-2018 00:29:34 => gal gal => API created.
+22-03-2018 00:29:34 => gal gal => API response sent to client: saveAdmin.
+22-03-2018 00:30:07 => gal gal => Incoming API request: saveAdmin.
+22-03-2018 00:30:07 => gal gal => API created.
+22-03-2018 00:30:07 => gal gal => API response sent to client: saveAdmin.
+22-03-2018 00:30:13 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+22-03-2018 00:30:14 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+22-03-2018 00:30:19 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+22-03-2018 00:30:35 => gal gal => Incoming API request: saveCourse.
+22-03-2018 00:30:35 => gal gal => API created.
+22-03-2018 00:30:35 => gal gal => API response sent to client: saveCourse.
+22-03-2018 00:30:51 => gal gal => Incoming API request: saveStudent.
+22-03-2018 00:30:51 => gal gal => API created.
+22-03-2018 00:30:51 => gal gal => API response sent to client: saveStudent.
+22-03-2018 00:37:21 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+22-03-2018 00:37:21 => gal gal => Front controller created. Model, SchoolView, Controller, Action: .
+22-03-2018 00:43:33 => gal gal => Front controller created. AdminModel, AdminView, Controller, Action: .
+22-03-2018 00:44:05 => gal gal => Incoming API request: saveAdmin.
+22-03-2018 00:44:05 => gal gal => API created.
+22-03-2018 00:44:05 => gal gal => API response sent to client: saveAdmin.
+22-03-2018 00:44:18 => gal gal => Front controller created. AdminModel, LoginView, LoginController, Action: logout.
+22-03-2018 00:44:18 => gal gal => logged out succesfully.
+22-03-2018 00:44:18 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+22-03-2018 00:44:19 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: .
+22-03-2018 00:44:27 => N/A => Front controller created. AdminModel, LoginView, LoginController, Action: login.
+22-03-2018 00:44:28 => newadmin newadmin => logged in succesfully.
+22-03-2018 00:44:28 => newadmin newadmin => Front controller created. Model, SchoolView, Controller, Action: .
+22-03-2018 00:44:29 => newadmin newadmin => Incoming API request: getSchoolData.
+22-03-2018 00:44:29 => newadmin newadmin => API created.
+22-03-2018 00:44:29 => newadmin newadmin => API response sent to client: getSchoolData.
+22-03-2018 00:44:36 => newadmin newadmin => Front controller created. AdminModel, AdminView, Controller, Action: .
+22-03-2018 00:44:43 => newadmin newadmin => Front controller created. Model, SchoolView, Controller, Action: .
