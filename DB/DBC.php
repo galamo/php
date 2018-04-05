@@ -7,16 +7,16 @@ class DatabaseConnection{
     private $isConnected = false; 
 
     // Locally Hosted
-    private $dbServer = "localhost";
-    private $dbUser = "root";
-    private $dbPassword = "admin";
-    private $dbName = "school";
+    // private $dbServer = "localhost";
+    // private $dbUser = "root";
+    // private $dbPassword = "admin";
+    // private $dbName = "school";
 
     // Hosted On AwardSpace
-    // private $dbServer = "fdb16.awardspace.net";
-    // private $dbUser = "2423696_school";
-    // private $dbPassword = "Israel@10";
-    // private $dbName = "2423696_school";
+    private $dbServer = "fdb16.awardspace.net";
+    private $dbUser = "2423696_school";
+    private $dbPassword = "Israel@10";
+    private $dbName = "2423696_school";
         
     private function __construct(){
         $this->connection = new mysqli($this->dbServer,$this->dbUser,$this->dbPassword,$this->dbName);
